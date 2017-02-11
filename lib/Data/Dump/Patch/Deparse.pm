@@ -89,6 +89,18 @@ On the command-line:
 =head1 DESCRIPTION
 
 
+=head1 PACKAGE VARIABLES
+
+=head2 $OPT_REMOVE_PRAGMAS
+
+Like in L<Data::Dmp>.
+
+
+=head2 $OPT_PERL_VERSION
+
+Like in L<Data::Dmp>.
+
+
 =head1 SEE ALSO
 
 L<Data::Dump>
