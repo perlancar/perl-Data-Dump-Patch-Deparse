@@ -2,3 +2,4 @@ Data-Dump-Patch-Deparse-*
 .build
 *~
 nytprof*
+.DS_Store
